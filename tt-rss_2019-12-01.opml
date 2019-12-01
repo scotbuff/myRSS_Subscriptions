@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Sun, 01 Dec 2019 22:05:13 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="beer" ttrssSortOrder="0">
+      <outline type="rss" text="So, you want to be a brewer..." xmlUrl="http://blog.troegs.com/?feed=rss2" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://blog.troegs.com"/>
+    </outline>
+    <outline text="design" ttrssSortOrder="0">
+      <outline type="rss" text="Simple Desktops" xmlUrl="http://feeds.feedburner.com/simpledesktops" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://simpledesktops.com/"/>
+      <outline type="rss" text="Ugly Duck" xmlUrl="https://uglyduck.ca/atom.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://uglyduck.ca/"/>
+    </outline>
+    <outline text="drawing" ttrssSortOrder="0">
+      <outline type="rss" text="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="education" ttrssSortOrder="0">
+</outline>
+    <outline text="Food" ttrssSortOrder="0">
+      <outline type="rss" text="Skillet" xmlUrl="http://skillet.lifehacker.com/rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://skillet.lifehacker.com"/>
+    </outline>
+    <outline text="games" ttrssSortOrder="0">
+      <outline type="rss" text="PastPixels" xmlUrl="http://www.pastpixels.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.pastpixels.com"/>
+      <outline type="rss" text="The Other Side of the Screen" xmlUrl="http://cmelissinos.blogspot.com/feeds/posts/default" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://cmelissinos.blogspot.com/"/>
+      <outline type="rss" text="Unwinnable" xmlUrl="http://www.unwinnable.com/feed" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.unwinnable.com"/>
+    </outline>
+    <outline text="general-computing" ttrssSortOrder="0">
+      <outline type="rss" text="GuruBob's Blog" xmlUrl="http://guru.net.nz/blog/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://guru.net.nz/blog/"/>
+    </outline>
+    <outline text="gentlemen-and-ladies-too" ttrssSortOrder="0">
+      <outline type="rss" text="Alex Harden" xmlUrl="https://alexharden.org/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://alexharden.org/"/>
+      <outline type="rss" text="Brad Sucks" xmlUrl="http://www.bradsucks.net/feed/rss2/?feedtype=full" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.bradsucks.net"/>
+      <outline type="rss" text="inner.geek" xmlUrl="http://inner.geek.nz/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://inner.geek.nz"/>
+      <outline type="rss" text="komlenic.com" xmlUrl="http://komlenic.com/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://komlenic.com"/>
+      <outline type="rss" text="My life is dope" xmlUrl="https://nathanpowell.org/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://nathanpowell.org/"/>
+    </outline>
+    <outline text="hardware" ttrssSortOrder="0">
+      <outline type="rss" text="hack a day" xmlUrl="http://www.hackaday.com/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://hackaday.com"/>
+    </outline>
+    <outline text="harrisburg area" ttrssSortOrder="0">
+      <outline type="rss" text="Top Stories" xmlUrl="http://feeds.feedburner.com/wgal/oRkt" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.wgal.com"/>
+    </outline>
+    <outline text="local" ttrssSortOrder="0">
+      <outline type="rss" text="cygweb" xmlUrl="http://aharden.wordpress.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://aharden.wordpress.com"/>
+      <outline type="rss" text="DonnySpi's Blog" xmlUrl="http://www.donnyspi.com/blog/index.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.donnyspi.com/blog/"/>
+      <outline type="rss" text="mschindler.com" xmlUrl="http://mschindler.com/index.php/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://mschindler.com"/>
+      <outline type="rss" text="Sara Bozich" xmlUrl="http://sarabozich.typepad.com/sarabozich/index.rdf" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.sarabozich.com"/>
+    </outline>
+    <outline text="music" ttrssSortOrder="0">
+      <outline type="rss" text="porcupine tree - Google News" xmlUrl="https://news.google.com/news/feeds?hl=en&amp;gl=us&amp;q=%22Porcupine+Tree%22&amp;bav=on.2,or.r_cp.r_qf.&amp;bvm=bv.43828540,d.dmg&amp;biw=1384&amp;bih=821&amp;um=1&amp;ie=UTF-8&amp;output=rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://news.google.com/news?gl=us&amp;pz=1&amp;ned=us&amp;hl=en&amp;q=%5Cx22Porcupine+Tree%5Cx22"/>
+    </outline>
+    <outline text="my-websites" ttrssSortOrder="0">
+      <outline type="rss" text="Buff Labs" xmlUrl="http://bufflabs.org/buffatom.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://bufflabs.org"/>
+      <outline type="rss" text="Iron_Geek" xmlUrl="https://irongeek.net/buffatom.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://irongeek.net/"/>
+    </outline>
+    <outline text="Odd News" ttrssSortOrder="0">
+      <outline type="rss" text="Reuters: Oddly Enough" xmlUrl="http://feeds.reuters.com/reuters/oddlyEnoughNews" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.reuters.com"/>
+    </outline>
+    <outline text="programming" ttrssSortOrder="0">
+      <outline type="rss" text="Coderholic" xmlUrl="http://feeds.feedburner.com/coderholic" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.coderholic.com.com/"/>
+      <outline type="rss" text="Golang Newsletter Archive" xmlUrl="http://feeds.feedburner.com/golangnewsletter" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://feeds.feedburner.com/"/>
+      <outline type="rss" text="The Go Programming Language Blog" xmlUrl="http://blog.golang.org/feeds/posts/default" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://blog.golang.org/feeds/posts/"/>
+    </outline>
+    <outline text="science" ttrssSortOrder="0">
+      <outline type="rss" text="Reuters: Science News" xmlUrl="http://feeds.reuters.com/reuters/scienceNews" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.reuters.com"/>
+      <outline type="rss" text="Wired Science" xmlUrl="http://www.wired.com/wiredscience/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.wired.com"/>
+    </outline>
+    <outline text="software" ttrssSortOrder="0">
+      <outline type="rss" text="aphpkb" xmlUrl="http://aphpkb.blogspot.com/feeds/posts/default?alt=rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://aphpkb.blogspot.com/"/>
+      <outline type="rss" text="Tech @ Cliqz" xmlUrl="https://www.0x65.dev/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://0x65.dev"/>
+      <outline type="rss" text="TinyApps.Org" xmlUrl="http://tinyapps.org/blog/atom.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://tinyapps.org/blog/"/>
+    </outline>
+    <outline text="sports" ttrssSortOrder="0">
+      <outline type="rss" text="David Dellanave" xmlUrl="http://www.dellanave.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.dellanave.com"/>
+      <outline type="rss" text="Reuters: Sports News" xmlUrl="http://feeds.reuters.com/reuters/sportsNews" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.reuters.com"/>
+    </outline>
+    <outline text="technology" ttrssSortOrder="0">
+      <outline type="rss" text="A Virtual Home" xmlUrl="http://feeds.feedburner.com/mythoughts2" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://blog.avirtualhome.com"/>
+      <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="I, Cringely" xmlUrl="http://feeds.feedblitz.com/ICringely" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.cringely.com"/>
+      <outline type="rss" text="Lazy Reading | The Cyber Vanguard" xmlUrl="http://cyber.dabamos.de/blog/feed.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://cyber.dabamos.de/blog/"/>
+      <outline type="rss" text="LIFE. | LIFE." xmlUrl="http://life.hackaday.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://life.hackaday.com"/>
+      <outline type="rss" text="LongitudeTech Blog" xmlUrl="http://feeds.feedburner.com/LongitudetechBlog" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.longitudetech.com"/>
+      <outline type="rss" text="NETTUTS" xmlUrl="http://feeds2.feedburner.com/nettuts" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://feeds2.feedburner.com/"/>
+      <outline type="rss" text="ongoing by Tim Bray" xmlUrl="http://www.tbray.org/ongoing/ongoing.atom" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.tbray.org/ongoing/"/>
+      <outline type="rss" text="Reuters: Technology News" xmlUrl="http://feeds.reuters.com/reuters/technologyNews" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.reuters.com"/>
+      <outline type="rss" text="Simple is better than complex - The Zen of Python" xmlUrl="http://silviud.blogspot.com/feeds/posts/default" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://silviud.blogspot.com/"/>
+    </outline>
+    <outline text="Top Stories" ttrssSortOrder="0">
+      <outline type="rss" text="BBC News - World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.bbc.co.uk/news/"/>
+      <outline type="rss" text="Reuters: Top News" xmlUrl="http://feeds.reuters.com/reuters/topNews" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.reuters.com"/>
+    </outline>
+    <outline text="unix---linux" ttrssSortOrder="0">
+      <outline type="rss" text="AIXpert Blog" xmlUrl="https://www.ibm.com/developerworks/community/blogs/roller-ui/rendering/feed/aixpert/entries/atom?lang=en" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.ibm.com/developerworks/community/blogs/roller-ui/rendering/feed/aixpert/entries/"/>
+      <outline type="rss" text="CertDepot" xmlUrl="http://feeds.feedburner.com/Certdepot" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.certdepot.net"/>
+      <outline type="rss" text="Command-Line-Fu" xmlUrl="http://feeds2.feedburner.com/Command-line-fu" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.commandlinefu.com/commands/browse/rss"/>
+      <outline type="rss" text="Cool Solutions: Cool Tools" xmlUrl="http://www.novell.com/newsfeeds/rss/cooltools.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.novell.com/coolsolutions/tools/"/>
+      <outline type="rss" text="Especially for Linux Newbies Cool Solutions" xmlUrl="http://www.novell.com/newsfeeds/rss/linuxnewbie.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.novell.com/coolsolutions/linuxnewbie/"/>
+      <outline type="rss" text="Linux Voice" xmlUrl="http://www.linuxvoice.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.linuxvoice.com"/>
+      <outline type="rss" text="My Raspberry Pi Web Server" xmlUrl="http://raspberrywebserver.com/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://raspberrywebserver.com"/>
+      <outline type="rss" text="Novell Linux Desktop Cool Solutions" xmlUrl="http://www.novell.com/newsfeeds/rss/nld.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.novell.com/coolsolutions/nld/"/>
+      <outline type="rss" text="Posts on cli.fan" xmlUrl="https://cli.fan/posts/index.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://cli.fan/posts/"/>
+      <outline type="rss" text="Red Hat Errata" xmlUrl="https://rhn.redhat.com/rpc/recent-errata.pxt" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.redhat.com/apps/support/errata/"/>
+      <outline type="rss" text="Red Hat Security" xmlUrl="http://securityblog.redhat.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://securityblog.redhat.com"/>
+      <outline type="rss" text="UNIX Administratosphere" xmlUrl="http://administratosphere.wordpress.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://administratosphere.wordpress.com"/>
+      <outline type="rss" text="UNIX/Linux For The Everyday Admin" xmlUrl="http://everdayadmin.blogspot.com/feeds/posts/default" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://everdayadmin.blogspot.com/feeds/posts/"/>
+      <outline type="rss" text="Welcome to my AIX blog" xmlUrl="http://aixdoc.wordpress.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://aixdoc.wordpress.com"/>
+    </outline>
+    <outline type="rss" text="pages tagged vim" xmlUrl="http://box.matto.nl/tag/vim.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://box.matto.nl/tag/vim.html"/>
+    <outline type="rss" text="Tails - torrents/rss" xmlUrl="https://tails.boum.org/torrents/rss/index.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://tails.boum.org/torrents/rss/"/>
+    <outline text="tt-rss-prefs" schema-version="139">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="true"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="true"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="false"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="DEFAULT_SEARCH_LANGUAGE" value=""/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="true"/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="0"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="true"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="true"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="USER_CSS_THEME" value="compact.css"/>
+      <outline pref-name="USER_LANGUAGE" value="auto"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="UTC"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="date_reverse"/>
+      <outline pref-name="_ENABLED_PLUGINS" value="bookmarklets,embed_original,googlereaderkeys,mail,swap_jk"/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="true"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="139"/>
+    <outline text="tt-rss-filters" schema-version="139"/>
+  </body>
+</opml>
